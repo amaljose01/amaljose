@@ -78,7 +78,7 @@ function removeText (amount) {
 var text_name = '<br>I am Amal Jose.<br>'
 var text_love = 'I love to code.'
 var text_love2 ='<br>I am a DevOps Engineer.'
-var text_travel ='Intrests include Python, Flask, Django, Pandas, NumPy, Rest, JavaScript, React JS, Splunk, AWS , Shell Scripting...............'
+var text_travel ='Intrest includes Python, Flask, Django, Pandas, NumPy, Rest, JavaScript, React JS, Splunk, AWS , Shell Scripting...............'
 
 
 function typeLoop() {
